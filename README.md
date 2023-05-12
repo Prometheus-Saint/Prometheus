@@ -7,7 +7,6 @@
 <h1 align="center">Heya! I'm Liv</h1>
 <h3 align="center">Trying my best</h3>
 - ⚡ Fun fact **I love science!**
-- <img src="https://pin.it/3lKaw7O" alt="The only two things that I need">
 </p>
 
 <h3 align="left">I Want to Learn-Languages:</h3>
