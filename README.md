@@ -7,8 +7,6 @@
 <h1 align="center">Heya! I'm Liv</h1>
 <h2 align="center">Trying my best</h2>
 - ⚡ Fun fact **I love science!**
-<p aling="right"> <a href="![still-life-with-books-and-a-globe-jan-davidsz-de-heem](https://github.com/Prometheus-Saint/Prometheus/assets/132109963/800d5752-6d61-4e42-86c8-ff68b5e4fc24)"> <img src="https://github.com/Prometheus-Saint/Prometheus/assets/132109963/800d5752-6d61-4e42-86c8-ff68b5e4fc24"</p>
-</p>
-
-<h3 align="left">I Want to Learn-Languages:</h3>
+<h3 aling="center">I actually love life!</h3>
+<h4 align="left">I Want to Learn-Languages:</h4>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
